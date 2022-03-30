@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SerialLEd</string>
+    <string name="txvw">Control de un led mediante comunicación serial USB</string>
+    <string name="btnon">Conectar</string>
+    <string name="btnoff">Desconectar</string>
+    <string name="sw">Led</string>
+</resources>
